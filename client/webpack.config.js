@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Contact Cards'
+        title: 'Jate'
       }),
 
       new InjectManifest({
@@ -31,9 +31,9 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Text Editor',
-        short_name: 'Contact',
-        description: 'Never forget your contacts!',
+        name: 'Just Another Text Editor',
+        short_name: 'Jate',
+        description: 'Take notes with Javascript syntax highlighting!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
