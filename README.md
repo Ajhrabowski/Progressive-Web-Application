@@ -21,7 +21,7 @@ Read more about MIT here:
 
 This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to build a text editor that runs in the browser. The app is a single-page application that meets the PWA criteria. It also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.
 
-![Alt text](<Assets/PWA Screenshot.png>)
+![Alt text](<../Assets/PWA Screenshot.png>)
 
 ## Installation
 
