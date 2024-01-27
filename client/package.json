@@ -1,5 +1,5 @@
 {
-  "name": "Progressive-Web-Application",
+  "name": "progressive-web-application",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
